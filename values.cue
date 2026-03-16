@@ -3,7 +3,7 @@ package main
 values: {
 	image: {
 		repository: "meetchhatrala789/nodeapp"
-		tag:        "52a6669342ad23c611d4988e55ccfd32aebadad1"
+		tag:        "ce311e0e5fc7e6ffbfb0bee71998a5eae011c6da"
 	}
 	replicas: 3
 }
